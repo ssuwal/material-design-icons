@@ -8,6 +8,31 @@
     "material-design",
     "google"
   ],
+  "ignore":[
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "action",
+    "alert",
+    "av",
+    "communication",
+    "content",
+    "device",
+    "editor",
+    "file",
+    "hardware",
+    "image",
+    "maps",
+    "navigation",
+    "notification",
+    "places",
+    "social",
+    "sprites",
+    "toggle",
+    "www"
+    ]
   "license": "CC-BY-4.0",
   "homepage": "http://google.com/design/spec"
 }
